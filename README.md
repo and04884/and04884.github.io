@@ -4,14 +4,13 @@
 
 ## Project Purpose
 
-The purpose of this project is to create a personal introduction webpage that provides information about my background, educational interests, career goals, and hobbies. This project will demonstrate my understanding of basic HTML structure and project scoping principles.
+This website introduces who I am, outlines my academic and professional interests, and showcases my foundational web development skills. The project also serves as a portfolio piece that I can build on throughout the course as I learn more about HTML, CSS, and version control.
 
 
 
 ## Description
 
-The project consists of a single-page website built using semantic HTML. The webpage will include my name, major, career interests, personal goals, hobbies, and a link to my GitHub profile. The content will focus on my academic goals and professional interests.
-
+This repository contains my Project 02 submission for my web development course. The goal of this project is to elevate my local HTML/CSS website into a professional, version‑controlled project using GitHub and GitHub Pages. By publishing the site to a live public URL, I am demonstrating my ability to use Git, manage commits, and maintain a clean project structure that reflects modern collaborative workflows.
 
 
 ## Desired Results
@@ -22,13 +21,4 @@ The project consists of a single-page website built using semantic HTML. The web
 * Include headings, paragraphs, a list of hobbies, and a GitHub profile.
 * Demonstrate the ability to plan and execute a simple web development project.
 
-
-
-## Exclusions
-
-* No CSS styling or advanced design features.
-* No JavaScript or interactive elements.
-* Multiple webpages.
-* No images, multimedia, or external libraries.
-* No additional pages or complex layouts.
 
